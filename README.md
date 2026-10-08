@@ -15,13 +15,13 @@ Genie Code CLI runs locally in your terminal and is tuned for data and AI work o
 2. Install Genie Code CLI with the command for your operating system.
 
    ### macOS and Linux
-
+   Run in terminal:
    ```sh
    curl -fsSL https://github.com/databricks/genie-code-cli/releases/latest/download/install.sh | bash
    ```
 
    ### Windows
-
+   Run in powershell:
    ```powershell
    powershell -ExecutionPolicy Bypass -c "irm https://github.com/databricks/genie-code-cli/releases/latest/download/install.ps1 | iex"
    ```
